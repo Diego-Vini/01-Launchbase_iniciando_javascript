@@ -8,3 +8,5 @@
 - Condicionais;
 - Operadores de comparação;
 - operadores lógicos;
+- Desafio calculo de IMC;
+- Desafio Calculo de aposentadoria;
