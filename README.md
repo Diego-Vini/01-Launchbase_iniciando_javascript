@@ -12,3 +12,5 @@
 - Desafio Calculo de aposentadoria;
 - Objetos;
 - Arrays;
+- Desafio impressão de objetos
+- Desafio impressão com objetos e arrays
