@@ -1,6 +1,6 @@
 # 01-Launchbase_iniciando_javascript
 
-# Esse repositŕio contem os primeiros comandos vistos no bootcamp Launchbase da Rockeseat:
+# Repositório que contem os primeiros comandos vistos no bootcamp Launchbase da Rockeseat:
 
 - Váriaveis;
 - Tipos de variaveis;
