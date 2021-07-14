@@ -15,4 +15,6 @@
 - Desafio impressão de objetos
 - Desafio impressão com objetos e arrays
 - Trabalhando com funções,
-- Criando estrutura de repetição
+- Criando estrutura de repetição;
+- Boolean;
+- Desafio operações bancarias;
